@@ -1,3 +1,12 @@
+In the competitive landscape of the airline industry, customer satisfaction and brand loyalty are critical for sustaining long-term success. This study introduces the Question Answering System using Python and LLM Models”. This project presents an intelligent query-driven data analysis system using a Large Language Model (LLM) integrated with Pandas for exploring ICC Cricket World Cup datasets. The system leverages the QueryPipeline architecture, which combines natural language understanding, prompt engineering, instruction parsing, and automated Pandas code generation. By utilizing the Llama3 model via Ollama, the system effectively converts user queries into executable dataframe expressions and delivers meaningful, human-readable responses.
+The dataset includes match statistics such as total runs, overs played, run rates, match outcomes, team performance, opponent details, venues, and dates. Using natural language queries, the system accurately performs operations like filtering, aggregation, comparison, and statistical evaluations. This enables detailed insights into team performances, historical trends, and match dynamics without manually writing code.
+The results demonstrate that the model can successfully interpret contextual cricket-related questions, generate correct Pandas expressions, and produce accurate outputs—highlighting its efficiency, interpretability, and reliability. This approach provides a powerful solution for automated sports analytics, making complex cricket data exploration more intuitive and accessible for analysts, researchers, and enthusiasts.
+
+
+
+
+
+
 1.	Installation of Ollama:
 •	Install the Ollama from the official website of ollama “http://ollama.com”.
 •	Install the required model from the ollama for the work.
